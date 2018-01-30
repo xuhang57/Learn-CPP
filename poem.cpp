@@ -1,4 +1,4 @@
-// Copyright 2018 Hang Xu and xuh@bu.edu
+// Copyright 2018 Lucas Xu 
 
 #include <iostream>
 
